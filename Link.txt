@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://script.google.com/a/macros/whats.ws/s/AKfycbzylX5X_DctNcwKG9hGW2v9FsvExLIZYt7BMHxyWpf2YoHJQBztyl07c8CSOwb0DmiQmQ/exec">
+    <title>Redirecionando...</title>
+</head>
+<body>
+    <p>Se você não for redirecionado, <a href="https://seu-link-atual-aqui.com">clique aqui</a>.</p>
+</body>
+</html>
